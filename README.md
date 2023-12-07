@@ -1,7 +1,6 @@
 # dspData.github.io
+# for DSP Data 
 
-
-#for DSP Data
 import pickle
 #Give path for the downloaded file
 file_name = "faceData.pkl"
